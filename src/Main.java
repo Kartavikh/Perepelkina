@@ -43,6 +43,7 @@ public class Main {
 
         }
 
+
         String[] data = input.split(regexActions[actionIndex]);
 
         int a, b;
