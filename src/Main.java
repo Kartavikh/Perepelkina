@@ -63,7 +63,6 @@ public class Main {
         };
         System.out.println(result);
         return "завершение операции";
-
     }
 }
 
