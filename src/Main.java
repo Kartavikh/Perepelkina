@@ -38,6 +38,7 @@ public class Main {
             }
         }
 
+
         if (actionIndex == -1) {
             return "Некорректное выражение, можно использовать только + - / *";
 
